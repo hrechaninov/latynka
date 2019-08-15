@@ -1,0 +1,15 @@
+{
+  "name": "latynka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "latynka.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0"
+  }
+}
