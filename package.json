@@ -1,13 +1,13 @@
 {
   "name": "latynka",
   "version": "1.0.0",
-  "description": "",
+  "description": "text transcription from Ukrainian cyrillic to Ukrainian latin using modified Jirechek`s latin alphabet for Ukrainian language",
   "main": "latynka.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Viktor Hrechaninov <hrechaninovvf@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^6.1.0",
     "jest": "^24.8.0"
